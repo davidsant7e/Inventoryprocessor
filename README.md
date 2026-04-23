@@ -10,7 +10,7 @@ Herramienta de escritorio en Windows Forms para cargar, procesar y exportar inve
 ## Ejecución
 
 ```bash
-git clone <url-del-repo>
+git clone [<url-del-repo>](https://github.com/davidsant7e/Inventoryprocessor.git)
 cd InventoryProcessor
 dotnet run
 ```
