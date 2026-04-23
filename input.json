@@ -1,0 +1,116 @@
+{
+  "warehouse": "Centro de Distribución Bogotá",
+  "generatedAt": "2026-04-15T08:00:00Z",
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Pro 15",
+      "category": null,
+      "stock": 12,
+      "minStock": 5,
+      "unitPrice": 3200000,
+      "status": "ok",
+      "sku": "ELC-0001"
+    },
+    {
+      "id": 2,
+      "name": "Monitor 27 4K",
+      "category": null,
+      "stock": 3,
+      "minStock": 5,
+      "unitPrice": 1500000,
+      "status": "ok",
+      "sku": null
+    },
+    {
+      "id": 3,
+      "name": "Teclado Mecánico RGB",
+      "category": null,
+      "stock": 5,
+      "minStock": 5,
+      "unitPrice": 320000,
+      "status": "ok",
+      "sku": "PER-0001"
+    },
+    {
+      "id": 4,
+      "name": "Mouse Inalámbrico",
+      "category": null,
+      "stock": 0,
+      "minStock": 10,
+      "unitPrice": 95000,
+      "status": "ok",
+      "sku": null
+    },
+    {
+      "id": 5,
+      "name": "Silla Ergonómica",
+      "category": "Mobiliario",
+      "stock": 8,
+      "minStock": 3,
+      "unitPrice": 1200000,
+      "status": "ok",
+      "sku": "MOB-0001"
+    },
+    {
+      "id": 6,
+      "name": "Mesa Escritorio L",
+      "category": null,
+      "stock": 2,
+      "minStock": 2,
+      "unitPrice": 850000,
+      "status": "ok",
+      "sku": null
+    },
+    {
+      "id": 7,
+      "name": "Cable HDMI 2m",
+      "category": null,
+      "stock": 45,
+      "minStock": 20,
+      "unitPrice": 35000,
+      "status": "critical",
+      "sku": "ACC-0001"
+    },
+    {
+      "id": 8,
+      "name": "Hub USB-C 7 puertos",
+      "category": null,
+      "stock": 1,
+      "minStock": 8,
+      "unitPrice": 185000,
+      "status": "ok",
+      "sku": "ACC-0001"
+    },
+    {
+      "id": 9,
+      "name": "Auriculares Bluetooth",
+      "category": null,
+      "stock": 6,
+      "minStock": 4,
+      "unitPrice": 420000,
+      "status": null,
+      "sku": null
+    },
+    {
+      "id": 10,
+      "name": "Webcam HD 1080p",
+      "category": "Periféricos",
+      "stock": 0,
+      "minStock": 5,
+      "unitPrice": 280000,
+      "status": "reorder",
+      "sku": null
+    },
+    {
+      "id": 12,
+      "name": "machete de finca",
+      "category": null,
+      "stock": -10,
+      "minStock": 5,
+      "unitPrice": -10000,
+      "status": "reorder",
+      "sku": null
+    }
+  ]
+}
